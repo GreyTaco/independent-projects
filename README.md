@@ -2,5 +2,5 @@
 
 | № | Название проекта | Описание | Стек | 
 |:---------------------- | :---------------------- | :---------------------- | :---------------------- |
-|1.| [**Продуктовый анализ приложения**](https://github.com/GreyTaco/independent-projects/tree/main/Product%20Analysis) | Изучение поведения пользователей. Расчет метрик монетизации | `pandas` `matplotlib` `seaborn` `datetime` `numpy` |
-|2.| [**Изучение показателей производства**](https://github.com/GreyTaco/Portfolio/tree/main/Groceries%20delivery) | Аналитика производства выпечки. Подсвечивание точек роста | `pandas` `matplotlib` `seaborn` |
+|1.| [**Продуктовый анализ приложения**](https://github.com/GreyTaco/independent-projects/tree/main/Product%20Analysis) | Образовательное приложение: анализ поведения пользователей, расчет и изучение метрик монетизации | `pandas` `matplotlib` `seaborn` `datetime` `numpy` |
+|2.| [**Изучение показателей производства**](https://github.com/GreyTaco/independent-projects/tree/main/Food%20Factory) | Аналитика производства выпечки. Подсвечивание точек роста | `pandas` `matplotlib` `seaborn` |
